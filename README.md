@@ -1,2 +1,2 @@
 # Mona
-A Python Program To Make Using Linux Easier
+Open Source Python Animation Program
